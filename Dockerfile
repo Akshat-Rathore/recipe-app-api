@@ -1,4 +1,4 @@
-FROM pyhton:3.7-alpine
+FROM python:3.7-alpine
 MAINTAINER AkshatSR
 
 ENV PYTHONBUFFERED 1
