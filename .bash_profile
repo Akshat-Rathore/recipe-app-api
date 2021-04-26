@@ -1,0 +1,1 @@
+export UID=${UID} && GID=${GID}
